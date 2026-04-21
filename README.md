@@ -1,2 +1,2 @@
 # SSL_NinaCondori_LuaBelen2
-Repositorio de Sintaxis y semántica de los lenguajes
+Este es mi repositorio para la cursada de sintaxis y Semántica de los lenguajes
